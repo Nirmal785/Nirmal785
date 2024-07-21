@@ -9,7 +9,7 @@
 
 <h1>🚀 About Me</h1>
 <h3>Name: Nirmal darji</h3>
-<h3>Location: Ahmedabad,gujrat</h3>
+<h3>Location: Ahmedabad,gujarat.</h3>
 <h3>Occupation: student</h3>
 <h3>Interest Areas: Blockchain Technology, full stack, DeFi, NFTs, Smart Contracts</h3>
 
