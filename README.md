@@ -1,3 +1,5 @@
+![logo](https://github.com/Nirmal785/Nirmal785/blob/main/banner.png)
+
 <h1 align="center">Hi 👋, I'm Nirmal Darji</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
